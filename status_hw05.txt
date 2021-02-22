@@ -1,0 +1,33 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+
+Kyle Smith
+
+2. What hostname did you deploy to?
+
+hw05.devcalibur.com
+
+3. Which parts of this assignment did you have trouble with, if any?
+
+Getting connections with elixir functionality working.
+
+4. What part of your application state is on the server?
+
+Almost none of it unfortunately.
+
+5. What part of your application state, if any, is in the browser?
+
+Still almost all of it, unfortunately.
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+
